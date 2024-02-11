@@ -3,8 +3,8 @@
 - 🌱 I’m currently learning Danté's Inferno
 - 💞️ I’m looking to collaborate on reality
 - 📫 How to reach me: Telegram (the old fashioned kind)
-- 😄 Pronouns: A pronoun is a word that is used instead of a noun or noun phrase
-- ⚡ Fun fact: I was born in the previous millenium!
+- 👀 Pronouns: A pronoun is a word that is used instead of a noun or noun phrase
+- ⚡ Fun fact: I was born in a bygone millenium!
 
 <!---
 OBrien-AI/OBrien-AI is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
