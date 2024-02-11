@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @OBrien-AI (Phil O Brien!)
-- 👀 I’m interested in reality
+- 👀 I’m interested in reality - I don't trust AI (despite what the username might suggest!)
 - 🌱 I’m currently learning Danté's Inferno
 - 💞️ I’m looking to collaborate on reality
 - 📫 How to reach me: Telegram (the old fashioned kind)
